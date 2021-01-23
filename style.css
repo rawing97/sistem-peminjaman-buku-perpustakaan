@@ -1,0 +1,73 @@
+body{
+	background-image: url('gambar/bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+*{
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+img{
+	margin-left: 550px;
+}
+
+h1	{
+	text-align: center;
+}
+
+.href{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.href button{
+	background-color:  	#00BFFF;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: bold;
+}
+
+
+
+
+.table{
+	background-color: #808080;
+	margin: 0px 350px; 
+	width: auto;
+}
+
+.table tr td {
+	text-align: center;
+	border: 1px solid black;
+	/*color: white;*/
+}
+
+.form{
+	background-color: #808080;
+	margin: 0px 500px; 
+	width: 346px;
+	height: 275px;
+
+}
+
+.form button{
+	margin-top: 10px;
+	border:2px solid black;
+	border-radius: 10px;
+	padding: 7px;
+	font-size: 12px;
+}
+button:hover{
+	background-color: #00FFFF;
+	
+}
+
+.formlogin{
+	background-color: #808080;
+	margin: 0 500px; 
+	width: 346px;
+	height: 275px;
+
+}
